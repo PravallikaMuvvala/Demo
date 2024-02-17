@@ -8,4 +8,5 @@ int main(){
 
     std::cout<<"Master"<<std::endl;
 
+    std::cout<<"Branch1"<<std::endl;
 }
